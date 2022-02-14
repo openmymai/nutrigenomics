@@ -11,6 +11,7 @@ module.exports = {
       twitter: `openmymai`,
     },
   },
+  pathPrefix: "/nutrigenomics",
   plugins: [ 
     `gatsby-plugin-image`,
     {
