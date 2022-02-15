@@ -46,9 +46,6 @@ const Bio = () => {
         <p>
           เขียนโดย <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            คุณสามารถติดตาม twitter ของผมได้
-          </a>
         </p>
       )}
     </div>

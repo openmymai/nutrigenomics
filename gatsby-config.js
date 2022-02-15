@@ -3,10 +3,10 @@ module.exports = {
       title: `Nutrigenomics`,
     siteUrl: `https://openmymai.github.io`,
     author: {
-      name: `Mai Sirisak Chantanate`,
-      summary: `who lives and works in Lamphun building useful things.`,
+      name: `สิริศักดิ์ จันทเนตร`,
+      summary: `ผู้ที่สนใจในโภชนพันธุศาสตร์`,
     },
-    description: `A nutrigenomics blog sharing health knowloedge`,
+    description: `Blog โภชนพันธุศาสตร์ ให้ความรู้เรื่องสุขภาพ`,
     social: {
       twitter: `openmymai`,
     },
