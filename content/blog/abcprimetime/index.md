@@ -11,10 +11,10 @@ description: โภชนพันธุศาสตร์ (Nutrigenomics) โ�
 ### เพื่อให้เข้าใจมากยิ่งขึ้นโปรดรับชมวีดีโอนี้
 
 ### รายงานจากรายการ ABC Primetime
-[![ABC Primetime Report](./lifevantageABCprimtime.jpg)](https://www.youtube.com/watch?v=J3glZqdF1nA)
+[![ABC Primetime Report](./lfvnabc.png)](https://www.youtube.com/watch?v=J3glZqdF1nA)
 
 ### งานวิจัยทางวิทยาศาสตร์ของ Nrf2 Activator
 [![Back the Clock](./backclock.png)](https://www.youtube.com/watch?v=rwg4LW8xACU)
 
 ### การศึกษาของ NIA ยืนยันการยืดอายุขัย
-[![Long life](./longlife.jpg)](https://www.youtube.com/watch?v=AZrNLKV8Mes)
+[![Long life](./longlife.png)](https://www.youtube.com/watch?v=AZrNLKV8Mes)
