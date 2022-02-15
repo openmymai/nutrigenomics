@@ -4,7 +4,7 @@ module.exports = {
     siteUrl: `https://openmymai.github.io`,
     author: {
       name: `สิริศักดิ์ จันทเนตร`,
-      summary: `มีความสนใจในโภชนพันธุศาสตร์`,
+      summary: `มีความสนใจในโภชนพันธุศาสตร์ และเผยแพร่ความรู้เรื่องสุขภาพให้ผู้คน`,
     },
     description: `Blog โภชนพันธุศาสตร์ ให้ความรู้เรื่องสุขภาพ`,
     social: {
