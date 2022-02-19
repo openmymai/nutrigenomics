@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nutrigenomics]]></title><description><![CDATA[Blog โภชนพันธุศาสตร์ ให้ความรู้เรื่องสุขภาพ]]></description><link>https://openmymai.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Feb 2022 06:02:15 GMT</lastBuildDate><item><title><![CDATA[มารู้จัก Nrf2]]></title><description><![CDATA[มารู้จัก Nrf2 จากหนังสือ “Grow a new body” I like to think of Nrf2 as the U.S. Navy SEALS, who are normally in a military base drinking…]]></description><link>https://openmymai.github.io/growanewbody/</link><guid isPermaLink="false">https://openmymai.github.io/growanewbody/</guid><pubDate>Sat, 19 Feb 2022 11:05:32 GMT</pubDate><content:encoded>&lt;h1&gt;มารู้จัก Nrf2 จากหนังสือ “Grow a new body”&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nutrigenomics]]></title><description><![CDATA[Blog โภชนพันธุศาสตร์ ให้ความรู้เรื่องสุขภาพ]]></description><link>https://openmymai.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Feb 2022 23:54:04 GMT</lastBuildDate><item><title><![CDATA[โรคภูมิแพ้กับการแก้ไขที่ยั่งยืน]]></title><description><![CDATA[โรคภูมิแพ้คืออะไร? โรคภูมิแพ้ เกิดจากภาวะภูมิไวเกิน (Hypersensitivity…]]></description><link>https://openmymai.github.io/allergy/</link><guid isPermaLink="false">https://openmymai.github.io/allergy/</guid><pubDate>Sun, 20 Feb 2022 06:23:32 GMT</pubDate><content:encoded>&lt;h3&gt;โรคภูมิแพ้คืออะไร?&lt;/h3&gt;
+&lt;p&gt;โรคภูมิแพ้ เกิดจากภาวะภูมิไวเกิน (Hypersensitivity) ทำให้มีปฏิกิริยาตอบสนองต่อสารที่พบได้ทั่วไปในชีวิตประจำวัน เช่น อาหาร ไรฝุ่น ละอองเกสร ซึ่งในคนทั่วไปจะไม่มีปฏิกิริยาต่อสิ่งเหล่านี้ อาการของโรคอาจเกิดขึ้นกับระบบใดระบบหนึ่งของร่างกาย หรือเกิดขึ้นพร้อมกันหลายระบบ มันจะเป็นเรื้อรัง ความรุนแรงมีตั้งแต่รบกวนชีวิตประจำวันเล็กน้อยไปจนถึงขึ้นที่อันตรายถึงแก่ชีวิต
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 393px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/nutrigenomics/static/baad4c4221365627a029d23509fcb769/d72ec/allergy.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADmklEQVQ4yx3SaU+TBwDA8efLLNmrJS6abGLUDdTpBDbETV84t0VF0HjQQUUZMB3aocBgRVCIuFq5C8iNUHvYi8JTOct60BvoQa1l0pFl8b/Er/DLTzD4CpgJVeB+3YXoa2fW3Y3D38ugpZpeXSMvZp7wzFqNdu4hN4ql7EvPJPfEGcrLqmi4J6frsZLR/mGMejXm5S4EMVCN1lGAwXMed2yAJX8/894eDAvNTFiUjJuVdJvucrdBSubhHPbuP0jml8coK5Qi//U2LXUNdD3pYEilQjOnQLB6a9G7bjLtu4dno5c5bzsvbB3YPTqCEQ/BiJ/VjQCl10vYsyuNjP0HOPV1LuUXLqCsquR6wQV+l1Xz+I86tOYuBIvjFvolKc61VlY3njNlf0TviybsdhvRxBtir5O82drmt5u3+CErm4ITJ5Fdvsi9wiso78q4ffUypRIpjbJbqJ93IphtFQy/zGfBIyMcncC/qmFiqg7DVAfi4gDTs2MsO0WqfimlXnKJUXkVtq4WVLJyzN1KPIZxakqkNFZWMNrfhKDV3aSx+xS9mjyMooxoWIMoqjCY2rDYlJgWOrG5+5AWnaW96QEOcQbXqxl0iiYWhzr5N+SkvvgKlVcv09dRi/DKqKBl9BqVwz/SZvwZo72ZPmMtY9b7qOdbmHb2sOgaYXZhhljsDc6xEXxqNRH7PK9ddt46XpGfk833Xx2jv12OEHFMMzhdxx3DOdqWZLRYL9Gov8ijl4W0miWIvn5WVkzo9Ca6HyuYam0i9HwI38txIt4Ac6PD5BzOISv9EG0NtQiJsBfzUjt/Wm6gmq/hiVWCQl/E08kyWievIS71oFLUc2h/Bj+d/g7P+DPCFg3xZZG3y7PckRTx8Ue7yco4QnVpCcJW6h82tzbZ2IywnnQSTNhwhHXYvGOYVjpQTzZy7vgxPtmxi+piCb6JAdamtMQWRd5tRpGXVLF351EO7TtIaf5ZhOhGnHgiyUY8+d4omUyRSm2TSqV4x388bZaT8eke0tPSOZ15ksW+TtzaMVZtBrYTUTS9Zg6mfUtG2ufkf3McIbgWxhcIseL14g8GWI9ECUdjrK2FSSS3eFDTwM4PPmT3jr3IKhWoWpR01tUjGu3E49v4gzE+232Eo3u+4PqZPASdxcayy4PDtYLb48Xj8xMIrRJaW3+femTQSvaBE9yX96DV+tBr3Dys66anzcpfjgTJv9+hnjSTl3uekU41/wPJtA4CmEVzdQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Allergy&quot;
+        title=&quot;Allergy&quot;
+        src=&quot;/nutrigenomics/static/baad4c4221365627a029d23509fcb769/d72ec/allergy.png&quot;
+        srcset=&quot;/nutrigenomics/static/baad4c4221365627a029d23509fcb769/c26ae/allergy.png 158w,
+/nutrigenomics/static/baad4c4221365627a029d23509fcb769/6bdcf/allergy.png 315w,
+/nutrigenomics/static/baad4c4221365627a029d23509fcb769/d72ec/allergy.png 393w&quot;
+        sizes=&quot;(max-width: 393px) 100vw, 393px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;โรคภูมิแพ้สามารถเกิดขึ้นได้กับหลายระบบในร่างกาย&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ภูมิแพ้ทางเดินหายใจ เกิดโรคจมูกอักเสบจากภูมิแพ้ มีอาการคับจมูก น้ำมูกไหล จาม หรือทำให้เกิดโรคหืด มีอาการไอ แน่นหน้าอก เหนื่อย หอบ&lt;/li&gt;
+&lt;li&gt;ภูมิแพ้อาหารและยา ทำให้เกิดผื่นคันแบบลมพิษ หน้าบวม ปากบวม แน่นคอ แน่นหน้าอก เป็นลมหมดสติ ความดันโลหิตต่ำ และมีโอกาสเสียชีวิตได้&lt;/li&gt;
+&lt;li&gt;ภูมิแพ้ผิวหนัง ทำให้เกิดผื่นแดงคันเรื้อรัง ผิวแห้งลอก ส่วนใหญ่เป็นตามข้อพับแขนขาาและลำคอ&lt;/li&gt;
+&lt;li&gt;ภูมิแพ้ตา ทำให้เกิดเยื่อบุตาอักเสบ มีอาการคันตา เคืองตา ตาแดง ตาบวม&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ประสบการณ์ส่วนตัว&lt;/h3&gt;
+&lt;p&gt;ผมเองเป็นคนที่เคยเป็นภูมิแพ้และมีอาการหลายๆอย่างมาตั้งแต่เด็ก มีอาการตั้งแต่เป็นลมพิษ เกาแล้วก็ลาม ก็แก้ไขไปตามอาการด้วยการทายาแก้ผื่นคัน และที่เป็นมากและบ่อยที่สุดคืออาการน้ำมูกไหล คัดจมูก ช่วงที่เป็นเด็กต้องไปหาหมอทุกๆเดือน ทานยาตลอด ทุกครั้งที่มีอาการก็จะทรมาน
+แต่นี่คือการแก้ไขที่ปลายเหตุ&lt;/p&gt;
+&lt;h3&gt;การแก้ไขที่ยั่งยืน&lt;/h3&gt;
+&lt;p&gt;เมื่อไม่กี่ปีที่ผ่านมาก็มีคนแนะนำให้ผมได้รู้จักกับโภชนพันธุศาสตร์ ทำให้เรียนรู้ว่าต้นตอ ต้นเหตุที่ทำให้เราเกิดโรคหลายๆอย่างที่ไม่ใช่โรคติดต่อมาจากสารพิษ หรือที่เรารู้จักกันดีในชื่ออนุมูลอิสระนั่นเอง มันมาจากไหน มันเกิดขึ้นทุกครั้งที่เราหายใจและทานอาหาร เราเรียกภาวะนี้ว่าความเครียดออกซิเดชัน ตอนเราเป็นเด็กมันก็มีกระบวนการทำลายสารพิษ แต่ถ้าเราอยู่ในสภาพแวดล้อมที่ไม่ดีหรืออายุมากขึ้นกระบวนการนี้ก็เปลี่ยนไป การทำลายน้อยกว่าการสร้างสารพิษ และสิ่งที่ทำลายสารพิษคือ SOD ที่ร่างกายเราสร้างขึ้นมาได้เอง หัวใจสำคัญที่ทำให้เกิดการสร้าง SOD คือโปรตีนที่อยู่ในเซลล์ชื่อ Nrf2 และผู้ที่ค้นพบทฤษฎีความเสื่อมนี้และพบวิธีแก้ไขที่ยั่งยืนนี้ก็คือ DProfessor Joe M.McCord&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 200px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/nutrigenomics/static/18bdea31f16bad699cd2c61193829e41/772e8/dr-joe-mccord.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 118.9873417721519%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAAsTAAALEwEAmpwYAAAF2UlEQVQ4y3WUW1BU9x3Hd9rHviTppFOnTRrJjBObYqxJS6OSToypMdXEmWTihDGJJJJOoiZWoxAhiiAoIpdFQE0WkDvFIJQlCCgLe2N3z94v7LI3dtldll2wJm1S7VM/nXMU0j704T/nPH3O5//7fs9PlpwLk5gNEA/OEAv4mPNPS89kNIxm+BoddSVo+hTYhq8w9dcmzColHouAw6TFZlBj0aowa8alY5q8gWwZmAjOMOf3Eg/5mTbr6Kkv4+COjRzduo4L77zEl0XvopLno20uQz/YgVOYwmaYxKqfxKqbQFDfRFDfB85HgpJhIugn6HZQW/QhR17N4qNnM2jd83t633mBkYIc3JeLCH1eiKpyPyaVEqf5PlQ3IRmK0HvAaIhYaIbFeBTNiJIDrz3Hse1PU7Apg6u5W7CfepuFhiP8o7OEbzuKCV0+jGW4DZfFiN2owTo1iVmrQtCO/xcw7GdxPoZ6VMm7254mJ3MVR7Ie5dq+LTjK9pJSFHC3/zx3ldUsdn6Gvb8Rp9mA06TFbtBIVzfrxpEtxGZJiFeeDbAQj2CdUrN32zPszHiQvKdWMbB/G66yXJZaT/DdQBX/GpYz316EqbMSh1mPU9BJlrYpNRb9xD2gaLgMdBm17N70S15+/EFeXf0A59/IYvxEDv7a/SRbCjBWH8Dd8DGO7kpcFoMEXEl8GSglHQmSmo/hmBjjtTU/ZXvGQ7yX+TANe7JRn86lfXcW4br9aMvfJ6L4M/6uClxWAaegXQGKs1wBLluK78d3beE3D/yQT559DGfxm0yXv0fDi5kkGvP59/gX3FXKCfXV4bZZcAn6/w+cC/lYSifprTnNpod+wJ61P2Y0byuDb2+h9LermT7zIenLBaRbiwgOt+C2WXEJUytA8fzPlcWkY7MBYkEfl0qP83rGj/jLWxu58FImAx/sZLb5JPHL+YQ+P4x+qB+PzYLT9H0wK4ai3XLS0aCPVCKK3+si77lMuvdmUb9rA2NHdxPvKGe+tYCZK8UMX9eTjkfwmL/vogRcthNhomFS/EAkiKKumg1r1nL8hbW0781GfyKHVE85qZ5ClM3taIQw3/0tSSoWkf59r124l7IIFGGipWhrVI9TW1JI/p9yWf9UNtmPreLgxjW05P0RoeoA12oq6VK6SURj3E4lWEzGSMcihL1uZhwWZMv9C/tcjA58SeWJQk4d+gB58adsfzmHJx//Na+veZhzuzbRWFSCvN2MyxPln7dTLCXjpOIR4uEAbrOR0LQTWXp+DodJR1tDLb0tTTScLaWltoLui7UcOnSS53d8zNb1z/B+bj4VCiPdg05uJeMsJWMsxMIScC44g9duwScaeu1mij/5iN4WBaP912i9IKep5hzqoT6qqxT87Ce/4A/ZmzlZd5PqZiM6nYtvby1Ia04cUToxRyzkx2HSY5/SImu/KKf02BEGuzswTdxksKcLRe15LKphGhtaefTna9nxuyc48KmCC01qklEREpWqFZ3xSMBoYAazZgJhchxZs7ySxoozDHRcwapV01xXw1BXm2TY3tLJuiee5JXN69m68yC9vSPc+SYtdXXW5yHidbN431A7dh2XYEDWVl9F49nTjPX1oL8xSl1ZCV0X65hU9jHU087mX61m9/OZ7HtrH37PNLfTCaleIY+TxGxICiYa8KG+/hVBjxNZVdFRGstLuNF/FWFSRUtdDY3lxXzV3YZX0JH3xits3/AIV6pLufP328TDfmm7i0ARJNbGZ7dKMrFQAJm8pJCKgsNohpWYJlRcrChDNdBL96UGbJM3aJKf58V1j+C3TfH14oJU4lmvB7dglEzFlK16DQ6DjlQsiqy+7BSVhUexaVVc7+2hpvg4Np2KwY5mDCNKRq52cGzfm9z55pZkNh8O4BKMTFtM0g6IBrzS7KURRELIGs+UcelsCR7TFIqqc9Sf/gz92BCGUSVL0SCjVzsxT4zydWqeqH+a2RkPNp2GoMsu1Ubs3rRVYC7ok85/AMjsuPRzlWW9AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Professor Joe M. McCord&quot;
+        title=&quot;Professor Joe M. McCord&quot;
+        src=&quot;/nutrigenomics/static/18bdea31f16bad699cd2c61193829e41/772e8/dr-joe-mccord.png&quot;
+        srcset=&quot;/nutrigenomics/static/18bdea31f16bad699cd2c61193829e41/c26ae/dr-joe-mccord.png 158w,
+/nutrigenomics/static/18bdea31f16bad699cd2c61193829e41/772e8/dr-joe-mccord.png 200w&quot;
+        sizes=&quot;(max-width: 200px) 100vw, 200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;ความเปลี่ยนแปลงหลังจากการแก้ไขที่ยั่งยืน&lt;/h3&gt;
+&lt;p&gt;ผมเองเมื่อมีคนมาแนะนำและได้ศึกษาทฤษฎีความเสื่อมนี้แล้ว ก็แก้ไขตามทฤษฎี ทำให้อาการต่างๆเช่นน้ำมูกไหล คัดจมูก ดึขึ้นอย่างเห็นได้ชัด และทำให้ขาดไม่ได้ เพราะยังไงเราต้องหายใจตลอดเวลาและต้องทานอาหารทุกวันซึ่งมันเป็นสาเหตุให้เกิดสารพิษหรืออนุมูลอิสระ&lt;/p&gt;</content:encoded></item><item><title><![CDATA[มารู้จัก Nrf2]]></title><description><![CDATA[มารู้จัก Nrf2 จากหนังสือ “Grow a new body” I like to think of Nrf2 as the U.S. Navy SEALS, who are normally in a military base drinking…]]></description><link>https://openmymai.github.io/growanewbody/</link><guid isPermaLink="false">https://openmymai.github.io/growanewbody/</guid><pubDate>Sat, 19 Feb 2022 11:05:32 GMT</pubDate><content:encoded>&lt;h1&gt;มารู้จัก Nrf2 จากหนังสือ “Grow a new body”&lt;/h1&gt;
 &lt;p&gt;ฉันเปรียบเทียบว่า Nrf2 เป็นเสมือนหน่วยซีลของกองทัพเรือสหรัฐอเมริกา ซึ่งปกติแล้วจะอยู่ในฐานทัพ นั่งดื่มกาแฟ (หรือชาเขียว) จนกว่าจะถูกเรียกให้ลงมือปฏิบัติแล้วเข้าไปในนิวเคลียสของเซลล์และเข้าไปใน DNA จัดการกวาดล้างผู้ก่อการร้าย (อนุมูลอิสระ) และปรับสวิทซ์ยีนแห่งการมีอายุยืน SIRT-1 เมื่อเสร็จภารกิจพวกเขาก็กลับไปที่เยื่อหุ้มเซลล์และเฝ้าระวังอย่างตื่นตัวต่อไป&lt;/p&gt;
 &lt;p&gt;นักวิจัยพบว่า Nrf2 อาจเป็นตัวควบคุมหลักของกระบวนการสร้างความชรา นักวิทยาศาสตร์ที่มหาวิทยาลัยเท็กซัสอ้างว่า “การส่งสัญญาณของ Nrf2 . . กระตุ้นการทำงานของยีนมากกว่า 200 ยีนที่มีความสำคัญในการเผาผลาญยาและสารพิษ ป้องกันความเครียดออกซิเดชัน และต้านการอักเสบ รวมทั้งมีบทบาทสำคัญในความเสถียรของโปรตีนและในการกำจัดโปรตีนที่เสียหายผ่านการย่อยสลายของโปรตีนหรือที่เรียกว่า autophagy”&lt;/p&gt;
 &lt;hr /&gt;
